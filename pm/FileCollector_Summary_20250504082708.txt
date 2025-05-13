@@ -1,0 +1,24 @@
+IP filename: ipaddresses_sites.txt
+
+Started   04.05.2025 08:25:11 -0300
+Ended     04.05.2025 08:27:08 -0300
+Duration  00:01:56                 
+
+Total sites   10
+Connected     10
+Reserved      0 
+Login failed  0 
+Unreachable   0 
+
+Site        Site Status  PMFiles.zip
+----------  -----------  -----------
+10.1.35.2   On Air       OK         
+10.1.1.2    On Air       OK         
+10.1.101.2  On Air       OK         
+10.1.16.31  On Air       OK         
+10.1.16.12  On Air       OK         
+10.1.5.2    On Air       OK         
+10.1.60.2   On Air       OK         
+10.1.16.32  On Air       OK         
+10.1.36.10  On Air       OK         
+10.1.30.2   On Air       OK         
